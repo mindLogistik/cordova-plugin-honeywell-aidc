@@ -1,0 +1,18 @@
+{
+  "name": "cordova-plugin-honeywell-aidc",
+  "version": "0.2.0",
+  "description": "cordova-plugin-honeywell-aidc",
+  "cordova": {
+    "id": "cordova-plugin-file",
+    "platforms": [
+      "android",
+      "browser",
+      "ios",
+      "osx",
+      "windows"
+    ]
+  },
+  "author": "mLog",
+
+  
+}
